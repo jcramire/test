@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba</string>
+
+    <string name="accion_conectar">Conectar al Servidor</string>
+    <string name="accion_guardar">Guardar</string>
+
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="hint_correo">Ingrese su correo</string>
+</resources>
