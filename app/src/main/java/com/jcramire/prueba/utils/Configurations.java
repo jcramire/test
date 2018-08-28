@@ -1,4 +1,4 @@
-package com.jcramire.prueba.Utils;
+package com.jcramire.prueba.utils;
 
 public class Configurations {
     public static final String token_acceso = "EAAGf2sehxmUBACOCBVIe7f0yDYQ9DjHJYCVaoIRlMZCswXWHx5XeHMteaZAw2BoT3yPhq1QA6Hkm8WFzg8dSUBorcotPOLLYJ2h62MY1GMuBHtt4GtJhXwnNlSiEmSVfzOXdnZAL1HkjZAzTaUyyFbkZAuAYdjZAazvOaRWiGXa2G7H6poCdPN6tN8vKtDvXmzw5X6nlBRrhzvS8TgCJBfT9DfN4b4Y8mHEwUAovYh5AZDZD";

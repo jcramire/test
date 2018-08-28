@@ -6,11 +6,10 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.jcramire.prueba.Utils.Configurations;
+import com.jcramire.prueba.utils.Configurations;
 import com.jcramire.prueba.data.model.Token;
 import com.jcramire.prueba.data.model.Usuario;
 import com.jcramire.prueba.data.remote.ApiService;
